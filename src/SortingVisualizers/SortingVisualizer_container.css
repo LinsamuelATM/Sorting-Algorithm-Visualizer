@@ -1,0 +1,21 @@
+.navbar{
+    width: 25%;
+    background: #94A89A;
+    float: left;
+    position: fixed; /*position: fixed;*/
+    top: 0;
+    left: 0;
+    height: 100%;
+}
+
+.navbar h1{
+    color: rgb(16, 58, 63);
+}
+
+.visualizer{
+    position: fixed;
+    height: 100%;
+    width: 75%;
+    background: #F1F3CE;
+    margin-left: 25%;
+}
